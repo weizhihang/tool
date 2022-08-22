@@ -1,8 +1,7 @@
 <?php
 
 
-namespace tool;
-
+namespace Vzinger\Tool;
 
 class TimeTool
 {
